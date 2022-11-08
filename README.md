@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3>Thura Naing - Laravel,JavaScript (Vue) Developer</h3> 
+
+![](https://komarev.com/ghpvc/?username=thuranaing10&label=VISITOR+VIEWS&style=for-the-badge&color=brightgreen)
+
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=thuranaing10&show_icons=true&theme=ocean_dark)
 
