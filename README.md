@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Thura Naing - Laravel, Node.Js Developer</h3> 
+<h3>Thura Naing - Laravel, Node.js Developer</h3> 
 
 ![](https://komarev.com/ghpvc/?username=thuranaing10&label=VISITOR+VIEWS&style=for-the-badge&color=brightgreen)
 
